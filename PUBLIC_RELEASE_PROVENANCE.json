@@ -1,0 +1,29 @@
+{
+  "source_bundle_version": "sleep_medicine_release_20261011_v4",
+  "source_manifest_sha256": "a015847936414db085ee2e9f479a5d6f08e47ce47c028b0a4767f55dec260371",
+  "original_code_license": "MIT",
+  "author_authorized_name_scope_license": true,
+  "remote_upload_done": false,
+  "excluded_review_documents": [
+    ".gitignore",
+    "README.md",
+    "THIRD_PARTY_NOTICES.md",
+    "docs/pre_submission_statistics_and_external_validation.md",
+    "docs/sleep_edf_multimodal_literature_comparison.md",
+    "docs/sleep_medicine_author_information.md",
+    "docs/sleep_medicine_figures_and_tables.md",
+    "docs/sleep_medicine_manuscript_20261011.md",
+    "docs/sleep_medicine_public_readme_20261011.md",
+    "docs/sleep_medicine_submission_materials.md",
+    "docs/sleep_medicine_supplement_20261011.md"
+  ],
+  "changes": [
+    "public README and notices",
+    "MIT license for original contributions",
+    "software citation metadata",
+    "credential/data ignore rules",
+    "project author/license metadata",
+    "aggregate availability metadata only"
+  ],
+  "scientific_code_and_scores_changed": false
+}

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software and the upstream AttnSleep paper when using this code."
+type: software
+title: "Multichannel sleep staging: external validation and subject-disjoint adaptation"
+authors:
+  - family-names: Zhang
+    given-names: Jian
+    orcid: "https://orcid.org/0009-0001-8651-0524"
+    affiliation: "East China University of Science and Technology"
+version: "0.1.0"
+license: MIT
+abstract: >-
+  Research code, methods and audited aggregate results for multichannel sleep
+  staging with external PSG cohort validation and subject-disjoint adaptation.
+  Raw data, model weights and manuscript drafts are not distributed.

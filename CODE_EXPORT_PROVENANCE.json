@@ -1,0 +1,359 @@
+{
+  "note": "Release-only path substitutions; do not reuse original locked runtime hashes for edited public defaults",
+  "files": [
+    {
+      "path": "scripts/finetune_isruc_original_montage.py",
+      "workspace_sha256": "a2be4437317772837f8e4b24f0b5dab027a3e735bb859434a1112b62025395ee",
+      "release_sha256": "a2be4437317772837f8e4b24f0b5dab027a3e735bb859434a1112b62025395ee",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/evaluate_attnsleep_shhs_ensemble.py",
+      "workspace_sha256": "bdedbc02ae9b4cd7b2fdd3a1ff4902c0a0d22f6915de009deaf869437619d02e",
+      "release_sha256": "15e798384aadd8817120c0ffd836955c5b465c30324f201302aaa3ee04716fa2",
+      "portable_defaults_only": true
+    },
+    {
+      "path": "scripts/bootstrap_sleep_medicine_clinical.py",
+      "workspace_sha256": "29b7afa5f75889fd6f6e64f7219d3db474323667103e98f8ef8d390ea705a10d",
+      "release_sha256": "29b7afa5f75889fd6f6e64f7219d3db474323667103e98f8ef8d390ea705a10d",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/run_mainline_preprocessing_sensitivity.py",
+      "workspace_sha256": "914432808bf543a6ee50f8470aeb3121d0b6799b35e4d3a9e2dfa8001655770c",
+      "release_sha256": "914432808bf543a6ee50f8470aeb3121d0b6799b35e4d3a9e2dfa8001655770c",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/test_corrected_preprocessing_sensitivity.py",
+      "workspace_sha256": "716370507d879c44559708b792f14d0d451beedb530cba92af1ca43078cdd595",
+      "release_sha256": "716370507d879c44559708b792f14d0d451beedb530cba92af1ca43078cdd595",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/run_end_to_end_growth_study.py",
+      "workspace_sha256": "dd0d41c3cf1bfeb07a235e8cb52b8698bc123a657c0c9168b0f222145a73060f",
+      "release_sha256": "dd0d41c3cf1bfeb07a235e8cb52b8698bc123a657c0c9168b0f222145a73060f",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/make_shhs_adaptation_splits.py",
+      "workspace_sha256": "fc400699db8e732c1633711b4689d4b97b2299684ec8f3ccd963ecc73c137ccd",
+      "release_sha256": "fc400699db8e732c1633711b4689d4b97b2299684ec8f3ccd963ecc73c137ccd",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/evaluate_channel_robustness.py",
+      "workspace_sha256": "004694cf5322fe768aa0c0a6a72edc91342685cd4cb66ee5298890655639519e",
+      "release_sha256": "004694cf5322fe768aa0c0a6a72edc91342685cd4cb66ee5298890655639519e",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/train_attnsleep_multichannel_final_source.py",
+      "workspace_sha256": "b531235cbba2bc2edf324538400eb713289e1bf99258e000e0bd29d4c5d597dd",
+      "release_sha256": "b531235cbba2bc2edf324538400eb713289e1bf99258e000e0bd29d4c5d597dd",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/run_corrected_preprocessing_sensitivity.py",
+      "workspace_sha256": "43d0a1a63dc4f145a1a9e5f6c9df7a9ec3995bed0aa80b3464677bf29fbd3ee5",
+      "release_sha256": "43d0a1a63dc4f145a1a9e5f6c9df7a9ec3995bed0aa80b3464677bf29fbd3ee5",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/test_st_preparation_repair.py",
+      "workspace_sha256": "042aaf54fe59e576eb7843de60200f7ce78992dfb9d10f4b6d073efca7230ab7",
+      "release_sha256": "042aaf54fe59e576eb7843de60200f7ce78992dfb9d10f4b6d073efca7230ab7",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/adapt_attnsleep_shhs.py",
+      "workspace_sha256": "21564a566ff3da59b8dcdac8327d46028160ae0bc517090df43002e994d1a89e",
+      "release_sha256": "abcdbd27c834781efbf415ec72693558b8824119b77e6c8f8c109e13ac6391cf",
+      "portable_defaults_only": true
+    },
+    {
+      "path": "scripts/prepare_shhs_adaptation_cache.py",
+      "workspace_sha256": "dcfe93c8a1509ac4ab25133ce9a3d62d025ac1fe1a3e71d19b9120b48efae8c4",
+      "release_sha256": "44426b30373325f63a2f232f9c572d0de3eeef74cefe101c09440c3a424846f6",
+      "portable_defaults_only": true
+    },
+    {
+      "path": "scripts/run_multipath_growth_study.py",
+      "workspace_sha256": "4a6b626aa07f2a88722d49ad5d1c8277c58c609a52ba709c7a05b7feb204517f",
+      "release_sha256": "4a6b626aa07f2a88722d49ad5d1c8277c58c609a52ba709c7a05b7feb204517f",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/evaluate_attnsleep_isruc.py",
+      "workspace_sha256": "8a3fc36ebef2e24bbb4b71194f28832a681dc9ae25c22401eed0a122254976e1",
+      "release_sha256": "8a3fc36ebef2e24bbb4b71194f28832a681dc9ae25c22401eed0a122254976e1",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/prepare_attnsleep_sleepedf20.py",
+      "workspace_sha256": "84c96b863f47405c956cc24615c274858be18af5e6ea8416473e8c533bae1194",
+      "release_sha256": "84c96b863f47405c956cc24615c274858be18af5e6ea8416473e8c533bae1194",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/audit_st_repair_outputs.py",
+      "workspace_sha256": "9dd79b09213e954dd2abbd596aea1e556072cf657eaa5415cfa059cdb03e0cd9",
+      "release_sha256": "9dd79b09213e954dd2abbd596aea1e556072cf657eaa5415cfa059cdb03e0cd9",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/test_mainline_preprocessing_sensitivity.py",
+      "workspace_sha256": "16b07df889f46cc615f130b07f8a737267fb4ab755fc0749cc26e5df962c5c2d",
+      "release_sha256": "16b07df889f46cc615f130b07f8a737267fb4ab755fc0749cc26e5df962c5c2d",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/prepare_sleepedf20_multichannel.py",
+      "workspace_sha256": "981c9928950ca07d1af7dc0b0e9add72cf2a10a9cad64d670b7076d1b1dd274b",
+      "release_sha256": "981c9928950ca07d1af7dc0b0e9add72cf2a10a9cad64d670b7076d1b1dd274b",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/analyze_n1_clinical.py",
+      "workspace_sha256": "049fcb1f51e3537c1dcd6ab8d77788c4c4a734ee9c4364ef55c19f644a22af5f",
+      "release_sha256": "049fcb1f51e3537c1dcd6ab8d77788c4c4a734ee9c4364ef55c19f644a22af5f",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/channel_quality.py",
+      "workspace_sha256": "62ec0c946d37742efae8ba137e226ad30648a7b039d9570544ecc93026c8442c",
+      "release_sha256": "62ec0c946d37742efae8ba137e226ad30648a7b039d9570544ecc93026c8442c",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/search_minimal_attnsleep_growth.py",
+      "workspace_sha256": "971d6b0b7868e3ba7697bc18f37e9fe74821a414cd0d9e0b7217237ca6911696",
+      "release_sha256": "971d6b0b7868e3ba7697bc18f37e9fe74821a414cd0d9e0b7217237ca6911696",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/make_sleep_medicine_figures.py",
+      "workspace_sha256": "f4a6b8a5f967492ea023d842ced62b788d58e63f2a08d5ac10730d1a7d49fdb1",
+      "release_sha256": "f4a6b8a5f967492ea023d842ced62b788d58e63f2a08d5ac10730d1a7d49fdb1",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/summarize_attnsleep_improvement_study.py",
+      "workspace_sha256": "e247465ca13273ba34993503c5b3f9d3db6b5049d0e88fb71c79cbe4d382d3f1",
+      "release_sha256": "e247465ca13273ba34993503c5b3f9d3db6b5049d0e88fb71c79cbe4d382d3f1",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/evaluate_fixed_context_external.py",
+      "workspace_sha256": "023d152d82f7b4301d4e2832736062608feee898eea807daacc0c9d01d64f655",
+      "release_sha256": "023d152d82f7b4301d4e2832736062608feee898eea807daacc0c9d01d64f655",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/export_sleep_medicine_publication.py",
+      "workspace_sha256": "8cec659e3314710e4c7f06e6e79744cca74d4366eed2b77a7ab9d09bbe2bf36d",
+      "release_sha256": "8cec659e3314710e4c7f06e6e79744cca74d4366eed2b77a7ab9d09bbe2bf36d",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/evaluate_attnsleep_external_ensemble.py",
+      "workspace_sha256": "46f0b0e5c6415736e0753b0b5458040a03db4e1de1571033efc2d8912229f3ec",
+      "release_sha256": "46f0b0e5c6415736e0753b0b5458040a03db4e1de1571033efc2d8912229f3ec",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/resume_st_repair_cuda.py",
+      "workspace_sha256": "196b7fc42848814602e958b32db4463df73b3c7f4220b016bcded0e23f55064a",
+      "release_sha256": "196b7fc42848814602e958b32db4463df73b3c7f4220b016bcded0e23f55064a",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/train_attnsleep_multichannel_baseline.py",
+      "workspace_sha256": "8ff411d619c804996242c20f86d9e80c94e9a9a94eea9f9a61289a25477f8b8c",
+      "release_sha256": "8ff411d619c804996242c20f86d9e80c94e9a9a94eea9f9a61289a25477f8b8c",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/evaluate_shhs_viterbi_external.py",
+      "workspace_sha256": "2a2a34af0b7725be96e8f5bb370cbf5b642bc24d1a90a764117fc6e222630d97",
+      "release_sha256": "8cecf5825057ac913b41bc8cce8e4885119bca292c9e570e5028df3654dd3305",
+      "portable_defaults_only": true
+    },
+    {
+      "path": "scripts/run_attnsleep_selection_study.py",
+      "workspace_sha256": "6ba39895ef3a8011f3cd926971eddde64c5ac1ed730f8b6af6df904e8a7150f1",
+      "release_sha256": "6ba39895ef3a8011f3cd926971eddde64c5ac1ed730f8b6af6df904e8a7150f1",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/summarize_isruc_budget_curve.py",
+      "workspace_sha256": "90da0f18017311a3712f23d062c861cc430061c5b0450156733b33b891a420b5",
+      "release_sha256": "90da0f18017311a3712f23d062c861cc430061c5b0450156733b33b891a420b5",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/run_attnsleep_context_residual_study.py",
+      "workspace_sha256": "df9ae44bb3f7bbc0cc8467d7902287c430de5af7023d259da89454bf7de9fd04",
+      "release_sha256": "df9ae44bb3f7bbc0cc8467d7902287c430de5af7023d259da89454bf7de9fd04",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/audit_attnsleep_generalization_gap.py",
+      "workspace_sha256": "46bf6b271abf114f46af0951b6148d9de500eb95017c636b064cf312bd388f67",
+      "release_sha256": "46bf6b271abf114f46af0951b6148d9de500eb95017c636b064cf312bd388f67",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/audit_corrected_preprocessing_sensitivity.py",
+      "workspace_sha256": "b73f97f3440430778a670388ba11b859d9706c1889ec635d82a8ae1230e71ac3",
+      "release_sha256": "b73f97f3440430778a670388ba11b859d9706c1889ec635d82a8ae1230e71ac3",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/repair_st_baseline.py",
+      "workspace_sha256": "542d44609ab96ce15aae18ce5aa9da20305c2c55d2bbb5d2711380369bb3bbb7",
+      "release_sha256": "542d44609ab96ce15aae18ce5aa9da20305c2c55d2bbb5d2711380369bb3bbb7",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "scripts/pre_submission_statistics.py",
+      "workspace_sha256": "de854c7ea9968948a70a71f5c0987291ac0162982a3d772dd5d0bc152cd6ce1b",
+      "release_sha256": "de854c7ea9968948a70a71f5c0987291ac0162982a3d772dd5d0bc152cd6ce1b",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "src/sleep_research/preprocessing.py",
+      "workspace_sha256": "a29525aa586997e634c64b351e416ccf01aa0b91e76702b4813aafc6a4421a6f",
+      "release_sha256": "a29525aa586997e634c64b351e416ccf01aa0b91e76702b4813aafc6a4421a6f",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "src/sleep_research/__init__.py",
+      "workspace_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "src/sleep_research/models.py",
+      "workspace_sha256": "4146e9737d17201fb418199901f846f671cc6d5535c3dc99086fe6c36824356b",
+      "release_sha256": "4146e9737d17201fb418199901f846f671cc6d5535c3dc99086fe6c36824356b",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "src/sleep_research/config.py",
+      "workspace_sha256": "2c4ba0d00113b19f5c9be39c8fbfa4e4518a0d00a4d31bd3fb665c69e218f96d",
+      "release_sha256": "2c4ba0d00113b19f5c9be39c8fbfa4e4518a0d00a4d31bd3fb665c69e218f96d",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "src/sleep_research/train.py",
+      "workspace_sha256": "9ce553d43a8272bba0ea8ec1fda94a8c608935ccc36f49f33083e0efcf4e4beb",
+      "release_sha256": "9ce553d43a8272bba0ea8ec1fda94a8c608935ccc36f49f33083e0efcf4e4beb",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/train_Kfold_CV.py",
+      "workspace_sha256": "ef63af2bf042873313d99a791c5234b53907613d9a181b45657eaf3c93eee65b",
+      "release_sha256": "ef63af2bf042873313d99a791c5234b53907613d9a181b45657eaf3c93eee65b",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/parse_config.py",
+      "workspace_sha256": "93d6f543733078c3fc9ac1f94bc33ec105db0c3e7347dbbd43d35ce466bb9d98",
+      "release_sha256": "93d6f543733078c3fc9ac1f94bc33ec105db0c3e7347dbbd43d35ce466bb9d98",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/utils/util.py",
+      "workspace_sha256": "d02b04a00c8199f43f6c37abf161063bfc7c1d5d889b4add9ab9a38848a8a567",
+      "release_sha256": "d02b04a00c8199f43f6c37abf161063bfc7c1d5d889b4add9ab9a38848a8a567",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/utils/__init__.py",
+      "workspace_sha256": "2307e1706bbdf12ee9a66a65491fcb62f8be33bfff780ce824268cbbd1ea1c95",
+      "release_sha256": "2307e1706bbdf12ee9a66a65491fcb62f8be33bfff780ce824268cbbd1ea1c95",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/data_loader/data_loaders.py",
+      "workspace_sha256": "3fa1908b3476dd451ea5f8552828af4a3889045fc1a7685f68bfe0944f8896fe",
+      "release_sha256": "3fa1908b3476dd451ea5f8552828af4a3889045fc1a7685f68bfe0944f8896fe",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/prepare_datasets/prepare_physionet.py",
+      "workspace_sha256": "aa1b2017028b2c7205611a27c021c62fe3aa389a87becd214e15aa2ec66aa9a2",
+      "release_sha256": "aa1b2017028b2c7205611a27c021c62fe3aa389a87becd214e15aa2ec66aa9a2",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/prepare_datasets/prepare_shhs.py",
+      "workspace_sha256": "131120aeffb2dd56122993fc5273114c39e7823f7d359cf79434e5fd2984882b",
+      "release_sha256": "131120aeffb2dd56122993fc5273114c39e7823f7d359cf79434e5fd2984882b",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/prepare_datasets/dhedfreader.py",
+      "workspace_sha256": "67e10acbc7f8f3b502b528e79e110cc5c1aaf0317a58bfedfb6a4aa341cab3e3",
+      "release_sha256": "67e10acbc7f8f3b502b528e79e110cc5c1aaf0317a58bfedfb6a4aa341cab3e3",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/trainer/__init__.py",
+      "workspace_sha256": "9cebb6314b5d7e999259673b97e1a4e6ff604b924acec89c02b325f34dfc22c5",
+      "release_sha256": "9cebb6314b5d7e999259673b97e1a4e6ff604b924acec89c02b325f34dfc22c5",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/trainer/trainer.py",
+      "workspace_sha256": "e28e429027e3b4dedbf67c32f8a08fff8c664e829909603e3e94793a59a61dfe",
+      "release_sha256": "e28e429027e3b4dedbf67c32f8a08fff8c664e829909603e3e94793a59a61dfe",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/logger/logger.py",
+      "workspace_sha256": "ba5d8f9f766a2e68e0aca2c9307e7c08835f5517adf642b7af440ba52f7e3afc",
+      "release_sha256": "ba5d8f9f766a2e68e0aca2c9307e7c08835f5517adf642b7af440ba52f7e3afc",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/logger/__init__.py",
+      "workspace_sha256": "e0ce153c1e570ccfa448da45890512a152824b2cb70d4231ca6d3c0a14c9f0af",
+      "release_sha256": "e0ce153c1e570ccfa448da45890512a152824b2cb70d4231ca6d3c0a14c9f0af",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/base/base_trainer.py",
+      "workspace_sha256": "fa9b9a8c723b878374ebd4b6e185d00b57b61023588edc6f082613f26745daa5",
+      "release_sha256": "fa9b9a8c723b878374ebd4b6e185d00b57b61023588edc6f082613f26745daa5",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/base/__init__.py",
+      "workspace_sha256": "d776124b5197cf2452a27d6283eab8387bebf25176b25cdd5d72c0562500ffbc",
+      "release_sha256": "d776124b5197cf2452a27d6283eab8387bebf25176b25cdd5d72c0562500ffbc",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/model/metric.py",
+      "workspace_sha256": "c5749153849b21e5dfe3bce0858bcf3bf8b9efbad705be7089ed4a75e0f3a953",
+      "release_sha256": "c5749153849b21e5dfe3bce0858bcf3bf8b9efbad705be7089ed4a75e0f3a953",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/model/model.py",
+      "workspace_sha256": "1aaa56291cd800d58838a36a4e32b801d50e0a429bc0dee5b51d1f44639332e7",
+      "release_sha256": "1aaa56291cd800d58838a36a4e32b801d50e0a429bc0dee5b51d1f44639332e7",
+      "portable_defaults_only": false
+    },
+    {
+      "path": "external_baselines/AttnSleep/model/loss.py",
+      "workspace_sha256": "3dc90158bfa692e7b9778d6e79de939454f3300827471b7ec7eefb01e5b126f4",
+      "release_sha256": "3dc90158bfa692e7b9778d6e79de939454f3300827471b7ec7eefb01e5b126f4",
+      "portable_defaults_only": false
+    }
+  ]
+}

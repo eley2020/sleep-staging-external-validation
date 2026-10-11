@@ -1,0 +1,3 @@
+cohort,available_signal_files,matched_signal_annotation_pairs,unmatched_signal_files,matched_pairs_excluded,evaluated_records,exclusion_reason,scope
+shhs1,5793,5774,19,173,5601,missing required EEG(sec),"available local inventory, not original recruitment population"
+shhs2,2652,2650,2,0,2650,none,"available local inventory, not original recruitment population"

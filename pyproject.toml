@@ -1,0 +1,28 @@
+[project]
+name = "sleep-research"
+version = "0.1.0"
+license = {file = "LICENSE"}
+authors = [{name = "Jian Zhang", email = "jianzhang@ecust.edu.cn"}]
+description = "Multichannel sleep staging: source training, external validation and subject-disjoint adaptation"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "pandas",
+  "scipy",
+  "scikit-learn",
+  "wfdb",
+  "tqdm",
+  "matplotlib",
+  "torch",
+  "pyEDFlib",
+  "mne",
+]
+
+[project.optional-dependencies]
+publication = ["python-docx"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100

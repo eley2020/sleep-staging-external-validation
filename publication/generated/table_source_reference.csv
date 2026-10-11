@@ -1,0 +1,5 @@
+metric,fold_mean,fold_sd,note
+accuracy,0.8419034042910155,0.061271789158472506,"source20fold means, not external pooled estimator"
+macro_f1,0.7884874442320156,0.0704091708625788,"source20fold means, not external pooled estimator"
+weighted_f1,0.8478898274493254,0.05771834106956866,"source20fold means, not external pooled estimator"
+kappa,0.781072444840244,0.08315882075711327,"source20fold means, not external pooled estimator"

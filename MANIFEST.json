@@ -1,0 +1,500 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 318,
+      "sha256": "bb329df930f437b3a639a43331501aa690eaa1c2a65624c7a51e47f1661a17d7"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 657,
+      "sha256": "9a15cd260ac4cfbde6a449b43f78d8986c23abb52e5325b615a1b3e6be6ecfaf"
+    },
+    {
+      "path": "CODE_EXPORT_PROVENANCE.json",
+      "bytes": 17673,
+      "sha256": "0fe1d4af5d0252a94ddf2596ad12d80a9a3373ad7eb95dc280edad85af9cca88"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1067,
+      "sha256": "0e7b0ee437c07aabbcd3b9d4b0ae1f4928c776295c1cbfa6bfdf24b4665bf31d"
+    },
+    {
+      "path": "PUBLIC_RELEASE_PROVENANCE.json",
+      "bytes": 1102,
+      "sha256": "8b42d47361947b3fec972c3f61b0b202c97054c52093dd97e32ed340168e2b4c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4689,
+      "sha256": "bb2f543113814e60f402c02b28b0061911ce6ed402a86def1ba46e5aa09b0005"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1294,
+      "sha256": "63e293e960d49ded994040a6c24fbc5d0ddbafd8fffb09d8a4d09e11c0e3a21e"
+    },
+    {
+      "path": "docs/data_access_and_licenses.md",
+      "bytes": 1018,
+      "sha256": "b8fa59302d73de809d3bda74a9b3432f555c6a49ce584e81bce30e571b88e36b"
+    },
+    {
+      "path": "docs/sleep_medicine_complete_methods.md",
+      "bytes": 13469,
+      "sha256": "edbfea000b46f3a8f27e2a083531061e2db9be8236876181e131779ab575bec3"
+    },
+    {
+      "path": "docs/sleep_medicine_limitations.md",
+      "bytes": 5173,
+      "sha256": "503b9c5a0e051a87174cfda0077626ab17d3fea23a1581519b2ea52291d15143"
+    },
+    {
+      "path": "external_baselines/AttnSleep/LICENSE",
+      "bytes": 1074,
+      "sha256": "49afddcd6206cbee08c3f73f6e91c6335494122522312fa456c995d9c48cc861"
+    },
+    {
+      "path": "external_baselines/AttnSleep/README.md",
+      "bytes": 4798,
+      "sha256": "64509751e79ae0e590b3bdb8b66bd74999a72ca46fe191da8c567494687dcbad"
+    },
+    {
+      "path": "external_baselines/AttnSleep/base/__init__.py",
+      "bytes": 28,
+      "sha256": "d776124b5197cf2452a27d6283eab8387bebf25176b25cdd5d72c0562500ffbc"
+    },
+    {
+      "path": "external_baselines/AttnSleep/base/base_trainer.py",
+      "bytes": 9931,
+      "sha256": "fa9b9a8c723b878374ebd4b6e185d00b57b61023588edc6f082613f26745daa5"
+    },
+    {
+      "path": "external_baselines/AttnSleep/data_loader/data_loaders.py",
+      "bytes": 2228,
+      "sha256": "3fa1908b3476dd451ea5f8552828af4a3889045fc1a7685f68bfe0944f8896fe"
+    },
+    {
+      "path": "external_baselines/AttnSleep/logger/__init__.py",
+      "bytes": 22,
+      "sha256": "e0ce153c1e570ccfa448da45890512a152824b2cb70d4231ca6d3c0a14c9f0af"
+    },
+    {
+      "path": "external_baselines/AttnSleep/logger/logger.py",
+      "bytes": 750,
+      "sha256": "ba5d8f9f766a2e68e0aca2c9307e7c08835f5517adf642b7af440ba52f7e3afc"
+    },
+    {
+      "path": "external_baselines/AttnSleep/model/loss.py",
+      "bytes": 217,
+      "sha256": "3dc90158bfa692e7b9778d6e79de939454f3300827471b7ec7eefb01e5b126f4"
+    },
+    {
+      "path": "external_baselines/AttnSleep/model/metric.py",
+      "bytes": 541,
+      "sha256": "c5749153849b21e5dfe3bce0858bcf3bf8b9efbad705be7089ed4a75e0f3a953"
+    },
+    {
+      "path": "external_baselines/AttnSleep/model/model.py",
+      "bytes": 65643,
+      "sha256": "1aaa56291cd800d58838a36a4e32b801d50e0a429bc0dee5b51d1f44639332e7"
+    },
+    {
+      "path": "external_baselines/AttnSleep/parse_config.py",
+      "bytes": 6265,
+      "sha256": "93d6f543733078c3fc9ac1f94bc33ec105db0c3e7347dbbd43d35ce466bb9d98"
+    },
+    {
+      "path": "external_baselines/AttnSleep/prepare_datasets/dhedfreader.py",
+      "bytes": 6456,
+      "sha256": "67e10acbc7f8f3b502b528e79e110cc5c1aaf0317a58bfedfb6a4aa341cab3e3"
+    },
+    {
+      "path": "external_baselines/AttnSleep/prepare_datasets/prepare_physionet.py",
+      "bytes": 7526,
+      "sha256": "aa1b2017028b2c7205611a27c021c62fe3aa389a87becd214e15aa2ec66aa9a2"
+    },
+    {
+      "path": "external_baselines/AttnSleep/prepare_datasets/prepare_shhs.py",
+      "bytes": 4671,
+      "sha256": "131120aeffb2dd56122993fc5273114c39e7823f7d359cf79434e5fd2984882b"
+    },
+    {
+      "path": "external_baselines/AttnSleep/train_Kfold_CV.py",
+      "bytes": 3298,
+      "sha256": "ef63af2bf042873313d99a791c5234b53907613d9a181b45657eaf3c93eee65b"
+    },
+    {
+      "path": "external_baselines/AttnSleep/trainer/__init__.py",
+      "bytes": 23,
+      "sha256": "9cebb6314b5d7e999259673b97e1a4e6ff604b924acec89c02b325f34dfc22c5"
+    },
+    {
+      "path": "external_baselines/AttnSleep/trainer/trainer.py",
+      "bytes": 4673,
+      "sha256": "e28e429027e3b4dedbf67c32f8a08fff8c664e829909603e3e94793a59a61dfe"
+    },
+    {
+      "path": "external_baselines/AttnSleep/utils/__init__.py",
+      "bytes": 20,
+      "sha256": "2307e1706bbdf12ee9a66a65491fcb62f8be33bfff780ce824268cbbd1ea1c95"
+    },
+    {
+      "path": "external_baselines/AttnSleep/utils/r_permute_20.npy",
+      "bytes": 208,
+      "sha256": "ff8fc256aaa0e39ccb7d1c817dd9bda4810aa233d63c1f07fea49d06a528906a"
+    },
+    {
+      "path": "external_baselines/AttnSleep/utils/util.py",
+      "bytes": 3996,
+      "sha256": "d02b04a00c8199f43f6c37abf161063bfc7c1d5d889b4add9ab9a38848a8a567"
+    },
+    {
+      "path": "publication/generated/figure1_external_validation.pdf",
+      "bytes": 18426,
+      "sha256": "fef01ced482e4334653016782a38a010bab554385de7d92d269a85084a82fc07"
+    },
+    {
+      "path": "publication/generated/figure1_external_validation.png",
+      "bytes": 109379,
+      "sha256": "ed363fb684b403f91e18ab5c01a8bd1371a40c0335cef708478fa40f61e1f300"
+    },
+    {
+      "path": "publication/generated/figure2_shhs1_budget_curve.pdf",
+      "bytes": 18343,
+      "sha256": "46b4b911e82881c2818b08cd8dd0db05d1a6548d04d9ad49764d7c490fc82ac5"
+    },
+    {
+      "path": "publication/generated/figure2_shhs1_budget_curve.png",
+      "bytes": 153078,
+      "sha256": "49737a483506d67bcdf366d924fd3675d4f0989c6566787aa38c71bd9af52067"
+    },
+    {
+      "path": "publication/generated/figure3_clinical_mae.pdf",
+      "bytes": 18602,
+      "sha256": "b3308210335f0910e34e0df0e9828eb4ac2b9f969b8efd0f6ff37b9103f311ea"
+    },
+    {
+      "path": "publication/generated/figure3_clinical_mae.png",
+      "bytes": 140727,
+      "sha256": "858faa4bc270e8d86b5213576d08dae19a33167fa3181d6df8c83d419440fcde"
+    },
+    {
+      "path": "publication/generated/figure4_external_confusion_matrices.pdf",
+      "bytes": 41585,
+      "sha256": "af7cba20e39c81acf308d8333cc1e64867e8efe8b8f9a178a2490ebdae76da9a"
+    },
+    {
+      "path": "publication/generated/figure4_external_confusion_matrices.png",
+      "bytes": 213165,
+      "sha256": "7d9aed57cd3adc82137074d1d20dbb155e1ab99a2c6cf9a764041e24fb777ac4"
+    },
+    {
+      "path": "publication/generated/figureS1_record_flow.pdf",
+      "bytes": 19276,
+      "sha256": "cedccb2aaca610f8f9912ce59be5dbfa4c3a80dfaaf008c8e6f77c1a4fcb5094"
+    },
+    {
+      "path": "publication/generated/figureS1_record_flow.png",
+      "bytes": 161331,
+      "sha256": "33a606c74b77933193ce0a41d30afe9815778186efe0d31c6e1b6876dc8196a7"
+    },
+    {
+      "path": "publication/generated/figureS8_preprocessing.pdf",
+      "bytes": 23305,
+      "sha256": "0074245aaf3997523d3532332712ba5b1fd7feee981fd02e0789aec4eeb844ee"
+    },
+    {
+      "path": "publication/generated/figureS8_preprocessing.png",
+      "bytes": 140953,
+      "sha256": "b0f3f9bedbe6555a4e6d63166c97f37b1cde1a3e0dbc8f2bd0787cc54feebda4"
+    },
+    {
+      "path": "publication/generated/publication_metrics.json",
+      "bytes": 202066,
+      "sha256": "6be16e8a88c366fc01871cf0651da5e8293aa52af43fdceee8d17cf0bec02b49"
+    },
+    {
+      "path": "publication/generated/table1_2_frozen_external.csv",
+      "bytes": 1222,
+      "sha256": "d04078049459c70744b50125f6799691406afcc6598a1cfa10ce514ca260a70b"
+    },
+    {
+      "path": "publication/generated/table3_shhs1_budget.csv",
+      "bytes": 733,
+      "sha256": "5052aa6e21d0216b29467b2e9dc92c90beecc57d92eb4a0ac7e7e03d1a864eb6"
+    },
+    {
+      "path": "publication/generated/table4_clinical_errors.csv",
+      "bytes": 6492,
+      "sha256": "e15eade069299e5dd5bcd48f8033089050d373d52b288c7c81b35ecd516f5f69"
+    },
+    {
+      "path": "publication/generated/tableS1_available_record_flow.csv",
+      "bytes": 366,
+      "sha256": "280d561cb8cb7bc3c3c0b2bc5ed4fb65dda89d8877c9b3ac31bd57de8f0ce1d0"
+    },
+    {
+      "path": "publication/generated/tableS2_external_stages.csv",
+      "bytes": 1983,
+      "sha256": "a380c58e9eb507653b79781bb39b6f656cd8c220075c4c408737b75a45615f7a"
+    },
+    {
+      "path": "publication/generated/tableS4_clinical_limits.csv",
+      "bytes": 10446,
+      "sha256": "0d072cf1660a700dd51ff8aac1610160790cd865217295dcfb8e25e91ffb40bc"
+    },
+    {
+      "path": "publication/generated/tableS8_preprocessing.csv",
+      "bytes": 13007,
+      "sha256": "059003e040966fc8f022d8c4eecca4614885b106d2e60ce04c49a3de0dbd4335"
+    },
+    {
+      "path": "publication/generated/tableS8a_preprocessing_points.csv",
+      "bytes": 3097,
+      "sha256": "fdbe73208cda2150a51d678664c0f5fbc4e6d111e8cf2bdd9d919cbb5c2189f5"
+    },
+    {
+      "path": "publication/generated/tableS8b_preprocessing_paired_deltas.csv",
+      "bytes": 11234,
+      "sha256": "8aba06b294c3decf561c15dc9b6392fc34be553783320fbb95c2582c3a17e802"
+    },
+    {
+      "path": "publication/generated/table_source_reference.csv",
+      "bytes": 434,
+      "sha256": "4c95cbeb945a930d99e0d42c05def92f8690989414c0f665b2c095e1bb45bd98"
+    },
+    {
+      "path": "publication/publication_metrics.json",
+      "bytes": 202066,
+      "sha256": "6be16e8a88c366fc01871cf0651da5e8293aa52af43fdceee8d17cf0bec02b49"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 573,
+      "sha256": "25f14c9c717c653d22dfbbd5fccd21f38057186fdac259131a62a8592ef0e1a9"
+    },
+    {
+      "path": "requirements-publication.txt",
+      "bytes": 39,
+      "sha256": "d5eb9478fe74bcecd7a31b34098f0316b9beab512c22daa9aef87aa1496cc1f1"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 72,
+      "sha256": "4a5c571811087e3c6bc669104c758c0eeb43c89db7a41aed4b75ca0f6733b60b"
+    },
+    {
+      "path": "scripts/adapt_attnsleep_shhs.py",
+      "bytes": 19338,
+      "sha256": "abcdbd27c834781efbf415ec72693558b8824119b77e6c8f8c109e13ac6391cf"
+    },
+    {
+      "path": "scripts/analyze_n1_clinical.py",
+      "bytes": 8113,
+      "sha256": "049fcb1f51e3537c1dcd6ab8d77788c4c4a734ee9c4364ef55c19f644a22af5f"
+    },
+    {
+      "path": "scripts/audit_attnsleep_generalization_gap.py",
+      "bytes": 15402,
+      "sha256": "46bf6b271abf114f46af0951b6148d9de500eb95017c636b064cf312bd388f67"
+    },
+    {
+      "path": "scripts/audit_corrected_preprocessing_sensitivity.py",
+      "bytes": 5933,
+      "sha256": "b73f97f3440430778a670388ba11b859d9706c1889ec635d82a8ae1230e71ac3"
+    },
+    {
+      "path": "scripts/audit_st_repair_outputs.py",
+      "bytes": 5205,
+      "sha256": "9dd79b09213e954dd2abbd596aea1e556072cf657eaa5415cfa059cdb03e0cd9"
+    },
+    {
+      "path": "scripts/bootstrap_sleep_medicine_clinical.py",
+      "bytes": 4844,
+      "sha256": "29b7afa5f75889fd6f6e64f7219d3db474323667103e98f8ef8d390ea705a10d"
+    },
+    {
+      "path": "scripts/channel_quality.py",
+      "bytes": 11587,
+      "sha256": "62ec0c946d37742efae8ba137e226ad30648a7b039d9570544ecc93026c8442c"
+    },
+    {
+      "path": "scripts/evaluate_attnsleep_external_ensemble.py",
+      "bytes": 12496,
+      "sha256": "46f0b0e5c6415736e0753b0b5458040a03db4e1de1571033efc2d8912229f3ec"
+    },
+    {
+      "path": "scripts/evaluate_attnsleep_isruc.py",
+      "bytes": 10435,
+      "sha256": "8a3fc36ebef2e24bbb4b71194f28832a681dc9ae25c22401eed0a122254976e1"
+    },
+    {
+      "path": "scripts/evaluate_attnsleep_shhs_ensemble.py",
+      "bytes": 14530,
+      "sha256": "15e798384aadd8817120c0ffd836955c5b465c30324f201302aaa3ee04716fa2"
+    },
+    {
+      "path": "scripts/evaluate_channel_robustness.py",
+      "bytes": 5882,
+      "sha256": "004694cf5322fe768aa0c0a6a72edc91342685cd4cb66ee5298890655639519e"
+    },
+    {
+      "path": "scripts/evaluate_fixed_context_external.py",
+      "bytes": 18574,
+      "sha256": "023d152d82f7b4301d4e2832736062608feee898eea807daacc0c9d01d64f655"
+    },
+    {
+      "path": "scripts/evaluate_shhs_viterbi_external.py",
+      "bytes": 6316,
+      "sha256": "8cecf5825057ac913b41bc8cce8e4885119bca292c9e570e5028df3654dd3305"
+    },
+    {
+      "path": "scripts/export_sleep_medicine_publication.py",
+      "bytes": 9679,
+      "sha256": "8cec659e3314710e4c7f06e6e79744cca74d4366eed2b77a7ab9d09bbe2bf36d"
+    },
+    {
+      "path": "scripts/finetune_isruc_original_montage.py",
+      "bytes": 5941,
+      "sha256": "a2be4437317772837f8e4b24f0b5dab027a3e735bb859434a1112b62025395ee"
+    },
+    {
+      "path": "scripts/make_shhs_adaptation_splits.py",
+      "bytes": 2603,
+      "sha256": "fc400699db8e732c1633711b4689d4b97b2299684ec8f3ccd963ecc73c137ccd"
+    },
+    {
+      "path": "scripts/make_sleep_medicine_figures.py",
+      "bytes": 12291,
+      "sha256": "f4a6b8a5f967492ea023d842ced62b788d58e63f2a08d5ac10730d1a7d49fdb1"
+    },
+    {
+      "path": "scripts/pre_submission_statistics.py",
+      "bytes": 12142,
+      "sha256": "de854c7ea9968948a70a71f5c0987291ac0162982a3d772dd5d0bc152cd6ce1b"
+    },
+    {
+      "path": "scripts/prepare_attnsleep_sleepedf20.py",
+      "bytes": 3120,
+      "sha256": "84c96b863f47405c956cc24615c274858be18af5e6ea8416473e8c533bae1194"
+    },
+    {
+      "path": "scripts/prepare_shhs_adaptation_cache.py",
+      "bytes": 2221,
+      "sha256": "44426b30373325f63a2f232f9c572d0de3eeef74cefe101c09440c3a424846f6"
+    },
+    {
+      "path": "scripts/prepare_sleepedf20_multichannel.py",
+      "bytes": 18909,
+      "sha256": "981c9928950ca07d1af7dc0b0e9add72cf2a10a9cad64d670b7076d1b1dd274b"
+    },
+    {
+      "path": "scripts/repair_st_baseline.py",
+      "bytes": 23124,
+      "sha256": "542d44609ab96ce15aae18ce5aa9da20305c2c55d2bbb5d2711380369bb3bbb7"
+    },
+    {
+      "path": "scripts/resume_st_repair_cuda.py",
+      "bytes": 8896,
+      "sha256": "196b7fc42848814602e958b32db4463df73b3c7f4220b016bcded0e23f55064a"
+    },
+    {
+      "path": "scripts/run_attnsleep_context_residual_study.py",
+      "bytes": 19250,
+      "sha256": "df9ae44bb3f7bbc0cc8467d7902287c430de5af7023d259da89454bf7de9fd04"
+    },
+    {
+      "path": "scripts/run_attnsleep_selection_study.py",
+      "bytes": 15544,
+      "sha256": "6ba39895ef3a8011f3cd926971eddde64c5ac1ed730f8b6af6df904e8a7150f1"
+    },
+    {
+      "path": "scripts/run_corrected_preprocessing_sensitivity.py",
+      "bytes": 15851,
+      "sha256": "43d0a1a63dc4f145a1a9e5f6c9df7a9ec3995bed0aa80b3464677bf29fbd3ee5"
+    },
+    {
+      "path": "scripts/run_end_to_end_growth_study.py",
+      "bytes": 26512,
+      "sha256": "dd0d41c3cf1bfeb07a235e8cb52b8698bc123a657c0c9168b0f222145a73060f"
+    },
+    {
+      "path": "scripts/run_mainline_preprocessing_sensitivity.py",
+      "bytes": 23036,
+      "sha256": "914432808bf543a6ee50f8470aeb3121d0b6799b35e4d3a9e2dfa8001655770c"
+    },
+    {
+      "path": "scripts/run_multipath_growth_study.py",
+      "bytes": 28243,
+      "sha256": "4a6b626aa07f2a88722d49ad5d1c8277c58c609a52ba709c7a05b7feb204517f"
+    },
+    {
+      "path": "scripts/search_minimal_attnsleep_growth.py",
+      "bytes": 24121,
+      "sha256": "971d6b0b7868e3ba7697bc18f37e9fe74821a414cd0d9e0b7217237ca6911696"
+    },
+    {
+      "path": "scripts/summarize_attnsleep_improvement_study.py",
+      "bytes": 11224,
+      "sha256": "e247465ca13273ba34993503c5b3f9d3db6b5049d0e88fb71c79cbe4d382d3f1"
+    },
+    {
+      "path": "scripts/summarize_isruc_budget_curve.py",
+      "bytes": 3273,
+      "sha256": "90da0f18017311a3712f23d062c861cc430061c5b0450156733b33b891a420b5"
+    },
+    {
+      "path": "scripts/test_corrected_preprocessing_sensitivity.py",
+      "bytes": 1930,
+      "sha256": "716370507d879c44559708b792f14d0d451beedb530cba92af1ca43078cdd595"
+    },
+    {
+      "path": "scripts/test_mainline_preprocessing_sensitivity.py",
+      "bytes": 3565,
+      "sha256": "16b07df889f46cc615f130b07f8a737267fb4ab755fc0749cc26e5df962c5c2d"
+    },
+    {
+      "path": "scripts/test_st_preparation_repair.py",
+      "bytes": 3168,
+      "sha256": "042aaf54fe59e576eb7843de60200f7ce78992dfb9d10f4b6d073efca7230ab7"
+    },
+    {
+      "path": "scripts/train_attnsleep_multichannel_baseline.py",
+      "bytes": 93122,
+      "sha256": "8ff411d619c804996242c20f86d9e80c94e9a9a94eea9f9a61289a25477f8b8c"
+    },
+    {
+      "path": "scripts/train_attnsleep_multichannel_final_source.py",
+      "bytes": 9923,
+      "sha256": "b531235cbba2bc2edf324538400eb713289e1bf99258e000e0bd29d4c5d597dd"
+    },
+    {
+      "path": "src/sleep_research/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/sleep_research/config.py",
+      "bytes": 1315,
+      "sha256": "2c4ba0d00113b19f5c9be39c8fbfa4e4518a0d00a4d31bd3fb665c69e218f96d"
+    },
+    {
+      "path": "src/sleep_research/models.py",
+      "bytes": 5191,
+      "sha256": "4146e9737d17201fb418199901f846f671cc6d5535c3dc99086fe6c36824356b"
+    },
+    {
+      "path": "src/sleep_research/preprocessing.py",
+      "bytes": 8185,
+      "sha256": "a29525aa586997e634c64b351e416ccf01aa0b91e76702b4813aafc6a4421a6f"
+    },
+    {
+      "path": "src/sleep_research/train.py",
+      "bytes": 31565,
+      "sha256": "9ce553d43a8272bba0ea8ec1fda94a8c608935ccc36f49f33083e0efcf4e4beb"
+    }
+  ],
+  "scope": "Public code/methods/aggregate only; no manuscript drafts"
+}
