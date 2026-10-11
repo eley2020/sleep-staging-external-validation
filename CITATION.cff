@@ -9,6 +9,8 @@ authors:
     affiliation: "East China University of Science and Technology"
 version: "0.1.0"
 license: MIT
+repository-code: "https://github.com/eley2020/sleep-staging-external-validation"
+url: "https://github.com/eley2020/sleep-staging-external-validation"
 abstract: >-
   Research code, methods and audited aggregate results for multichannel sleep
   staging with external PSG cohort validation and subject-disjoint adaptation.

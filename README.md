@@ -1,5 +1,7 @@
 # Sleep staging: external validation and subject-disjoint adaptation
 
+Repository: https://github.com/eley2020/sleep-staging-external-validation
+
 Research software by Jian Zhang, School of Information Science and Engineering,
 East China University of Science and Technology, Shanghai, China.
 Contact: jianzhang@ecust.edu.cn; ORCID: 0009-0001-8651-0524.

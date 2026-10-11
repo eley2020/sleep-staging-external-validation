@@ -7095,7 +7095,7 @@
     "primary_baseline": "corrected original-input frozen ensemble",
     "preprocessing_model_promotion": false,
     "ethics": "author confirmation required",
-    "public_url": "Pending authenticated repository creation; no public availability asserted",
+    "public_url": "https://github.com/eley2020/sleep-staging-external-validation",
     "original_code_license": "MIT (author authorized 2026-10-11)"
   },
   "lineage": {

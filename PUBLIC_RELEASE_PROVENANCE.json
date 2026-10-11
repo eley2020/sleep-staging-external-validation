@@ -3,7 +3,10 @@
   "source_manifest_sha256": "a015847936414db085ee2e9f479a5d6f08e47ce47c028b0a4767f55dec260371",
   "original_code_license": "MIT",
   "author_authorized_name_scope_license": true,
-  "remote_upload_done": false,
+  "repository_url": "https://github.com/eley2020/sleep-staging-external-validation",
+  "repository_owner_verified": "eley2020",
+  "remote_repository_created": true,
+  "note": "Upload verification is recorded outside this snapshot to avoid a self-referential commit hash.",
   "excluded_review_documents": [
     ".gitignore",
     "README.md",

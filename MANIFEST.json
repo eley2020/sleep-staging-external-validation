@@ -7,8 +7,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 657,
-      "sha256": "9a15cd260ac4cfbde6a449b43f78d8986c23abb52e5325b615a1b3e6be6ecfaf"
+      "bytes": 807,
+      "sha256": "266482e9ab1c47f0b5ecf46d346cfbfc415272f521c52badb3ed2d591c63fc6b"
     },
     {
       "path": "CODE_EXPORT_PROVENANCE.json",
@@ -22,13 +22,13 @@
     },
     {
       "path": "PUBLIC_RELEASE_PROVENANCE.json",
-      "bytes": 1102,
-      "sha256": "8b42d47361947b3fec972c3f61b0b202c97054c52093dd97e32ed340168e2b4c"
+      "bytes": 1344,
+      "sha256": "22a8f86b50a47f7e5bec4f52a5fc952bf8676615ae6f874f81492754b8cc6af6"
     },
     {
       "path": "README.md",
-      "bytes": 4689,
-      "sha256": "bb2f543113814e60f402c02b28b0061911ce6ed402a86def1ba46e5aa09b0005"
+      "bytes": 4764,
+      "sha256": "c46c588cdc0fa874998540572fdf4f23e4aebdea7a69f158ab7957f53fcc42f5"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -212,8 +212,8 @@
     },
     {
       "path": "publication/generated/publication_metrics.json",
-      "bytes": 202066,
-      "sha256": "6be16e8a88c366fc01871cf0651da5e8293aa52af43fdceee8d17cf0bec02b49"
+      "bytes": 202053,
+      "sha256": "c178f352e14d63d6a8430f3a10030ae6ddfe95c0163a8dda5ed0946bf688357e"
     },
     {
       "path": "publication/generated/table1_2_frozen_external.csv",
@@ -267,8 +267,8 @@
     },
     {
       "path": "publication/publication_metrics.json",
-      "bytes": 202066,
-      "sha256": "6be16e8a88c366fc01871cf0651da5e8293aa52af43fdceee8d17cf0bec02b49"
+      "bytes": 202053,
+      "sha256": "c178f352e14d63d6a8430f3a10030ae6ddfe95c0163a8dda5ed0946bf688357e"
     },
     {
       "path": "pyproject.toml",
